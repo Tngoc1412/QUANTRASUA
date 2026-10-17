@@ -15,12 +15,14 @@ st.set_page_config(
 MENU_TEA = {
     "Trà Sữa Truyền Thống": 30000,
     "Trà Sữa Trân Châu Đường Đen": 35000,
+    "Trà Sữa Cacao": 30000,
     "Trà Sữa Thái Xanh": 32000,
     "Trà Sữa Ô Long": 35000,
     "Trà Sữa Matcha": 38000,
     "Trà Sữa Dâu Tây": 35000,
     "Trà Đào Cam Sả": 35000,
     "Trà Dâu Tằm": 32000,
+    "Hồng Trà Vãi Thiều": 25000,
 }
 
 SIZE_OPTIONS = {
@@ -32,9 +34,12 @@ SIZE_OPTIONS = {
 TOPPING_OPTIONS = {
     "Trân châu đen": 5000,
     "Trân châu trắng": 7000,
+    "Trân châu củ năng": 7000,
     "Thạch trái cây": 5000,
     "Pudding trứng": 8000,
-    "Kem Cheese": 10000
+    "Kem Cheese": 10000,
+    "Thạch Đào": 5000,
+    "Hạt Thủy Tinh hương đào": 7000
 }
 
 SUGAR_LEVELS = ["100% (Bình thường)", "70%", "50%", "30%", "0% (Không đường)"]
